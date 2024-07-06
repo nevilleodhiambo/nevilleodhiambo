@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nevilleodhiambo
-- 👀 I’m interested in software development
-- 🌱 I’m currently pursuing mathematics and computer science
+- 👀 I’m a software development
+- 🌱 I graduated from Maseno University Bsc(mathematics and computer science)
 - 💞️ I’m looking to collaborate on various production and development projects
 - 📫 How to reach me nevilleodhiambo28@gmail.com or 0725297912
 
